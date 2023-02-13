@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vvojtko
+- 👋 Hi, I’m @Greenlex / Paweł Ruszaj
 - 👀 I’m interested in software engineering, Data Science, particularly Artificial Intelligence and Machine Learning
 - 🌱 I’m graduated student of Computer Science and Aritificial Intelligence at Aberystwyth University
 - 💞️ At the moment I’m looking to collaborate on interesting data science / data analytics, especially focused on medical area (highly interested!) 
